@@ -52,9 +52,10 @@ I'm a 17-year-old self-taught developer based in Germany. My journey in tech is 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CubeZockii&show_icons=true&theme=tokyonight" alt="CubeZockii's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubeZockii&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CubeZockii&show_icons=true&theme=tokyonight" alt="CubeZockii's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CubeZockii&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 
 ## 📫 Let's Connect!
 
